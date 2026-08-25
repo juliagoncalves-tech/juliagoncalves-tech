@@ -1,16 +1,26 @@
-## Hi there 👋
+Olá! Eu sou Júlia 👋
 
-<!--
-**juliagoncalves-tech/juliagoncalves-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre mim
+Sou estudante de Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul. 
+Tenho interesse na área de Tecnologia e estou me desenvolvendo profissionalmente.
 
-Here are some ideas to get you started:
+ **Áreas de interesse em Tecnologia**
+- Desenvolvimento Web
+- Design UX/UI
+- Análise de dados
+- Bancos de dados
+- Suporte de Ti
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ **Tecnologias que estou estudando**
+- HTML, CSS, JavaScript
+- Git e GitHub
+- Visual Studio Code
+-SQL e MySQL
+-Paython
+
+Objetivos profissionais
+Meu objetivo é atuar na área de tecnologia como: analista de dados, suporte de ti, designer e construir projetos que gerem impacto.
+
+## Contato
+- **LinkedIn**: www.linkedin.com/in/júlia-gonçalves-983348322
+- **Email**: juliaoliveirafju@gmail.com
