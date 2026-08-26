@@ -17,6 +17,7 @@ Tenho interesse na área de Tecnologia e estou me desenvolvendo profissionalment
 - Git e GitHub
 - Visual Studio Code
 -SQL e MySQL
+
 -Paython
 
 Objetivos profissionais
