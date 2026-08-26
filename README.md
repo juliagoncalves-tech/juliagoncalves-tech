@@ -17,7 +17,6 @@ Tenho interesse na área de Tecnologia e estou me desenvolvendo profissionalment
 - Git e GitHub
 - Visual Studio Code
 -SQL e MySQL
--Paython
 
 Objetivos profissionais
 Meu objetivo é atuar na área de tecnologia como: analista de dados, suporte de ti, designer e construir projetos que gerem impacto.
