@@ -15,8 +15,9 @@ Tenho interesse na área de Tecnologia e estou me desenvolvendo profissionalment
  **Tecnologias que estou estudando**
 - HTML, CSS, JavaScript
 - Git e GitHub
+- SQL e MySQL
+- Python 
 - Visual Studio Code
--SQL e MySQL
 
 Objetivos profissionais
 Meu objetivo é atuar na área de tecnologia como: analista de dados, suporte de ti, designer e construir projetos que gerem impacto.
