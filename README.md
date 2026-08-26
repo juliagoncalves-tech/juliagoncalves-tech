@@ -1,6 +1,7 @@
 Olá! Eu sou Júlia 👋
 
 Sobre mim
+
 Sou estudante de Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul. 
 Tenho interesse na área de Tecnologia e estou me desenvolvendo profissionalmente.
 
